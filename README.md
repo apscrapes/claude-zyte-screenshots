@@ -1,6 +1,8 @@
 # claude-zyte-screenshots
 Capture a screenshot of any public URL using the Zyte API.
 
+![Alt text](https://github.com/apscrapes/claude-zyte-screenshots/blob/c30354161417067600a0d38b7f9c89b9591fc469/example.png)
+
 ## Usage Example 
 ~~~
 use zyte-screenshots skills and fetch screenshot of https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html , my Zyte API key is XXXXXXXX
